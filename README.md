@@ -1,4 +1,4 @@
-# README: Snyk Learn Lesson on Missing Encryption
+# Snyk Learn Lesson on Missing Encryption 🦀
 
 ## Lesson Summary
 
